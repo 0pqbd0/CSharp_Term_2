@@ -5,12 +5,6 @@ class Program
 {
     static void Main()
     {
-
-        /*double firstOperand = 7.5;
-        double secondOperand = 5.3;
-
-        Console.WriteLine(firstOperand + secondOperand);*/
-
         bool choosing = true;
 
         IStack stack = new StackDynamicArray();
