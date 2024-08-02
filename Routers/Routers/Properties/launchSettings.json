@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Routers": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\arepc\\source\\repos\\Routers\\Routers\\testInput.txt C:\\Users\\arepc\\source\\repos\\Routers\\Routers\\testOutput.txt"
+    }
+  }
+}
